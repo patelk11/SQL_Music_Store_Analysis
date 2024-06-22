@@ -1,11 +1,11 @@
-# SQL_Music_Store_Analysis
+# SQL_Project_Music_Store_Analysis
+SQL project to analyze online music store data
 
-Database and Tools
+## Database and Tools
+* Postgre SQL
+* PgAdmin4
 
-Postgre SQL
+Schema- Music Store Database  
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 
-PgAdmin4
 
-Schema- Music Store Database
-
-![image](https://github.com/patelk11/SQL_Music_Store_Analysis/assets/173055569/fe66c450-1b29-4e0c-abfa-31f2388e9445)
